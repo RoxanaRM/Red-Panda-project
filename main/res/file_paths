@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://android.com/apk/res/android">
+    <external-path name="my_images" path="Android/data/com.vlemonn.blog.captureimage/files/Pictures" />
+</paths>
